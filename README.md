@@ -1,4 +1,4 @@
-# Steam-Web-Scraping-
+<h1 align="center">Steam Web Scraping</h1>
 
 <img src="Screenshot 2022-09-12 at 10.12.59 PM.png">
 
